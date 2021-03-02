@@ -1,8 +1,8 @@
 {
-  "name": "ionic-conference-app",
+  "name": "Hustle Portal CRM App",
   "version": "0.0.0",
-  "description": "Ionic Conference App",
-  "author": "Ionic Team <hi@ionicframework.com>",
+  "description": "Hustle Portal CRM App",
+  "author": "Simple Eternity Holdings (Pty) Ltd <hi@ionicframework.com>",
   "license": "Apache-2.0",
   "scripts": {
     "ng": "ng",
